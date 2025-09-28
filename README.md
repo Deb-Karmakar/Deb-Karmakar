@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  🚀 **Full Stack Developer** | 💡 **Problem Solver** | 🌟 **Tech Enthusiast**
+  🚀 **Full Stack Developer**
   
 </div>
 
@@ -20,8 +20,8 @@
 - 🌱 I'm currently learning **cloud technologies and DevOps**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, programming, and technology**
-- 📫 How to reach me: **debkarmakar.dev@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into code!**
+- 📫 How to reach me: **debkarma97@gmail.com**
+- ⚡ Fun fact: **I love turning ideas into disasters!**
 
 <br>
 
@@ -142,11 +142,11 @@
 
 <div align="center">
   
-  <a href="mailto:debkarmakar.dev@gmail.com">
+  <a href="mailto:debkarma97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <a href="https://linkedin.com/in/debkarmakar" target="_blank">
+  <a href="https://www.linkedin.com/in/debajyoti-karmakar7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
@@ -158,7 +158,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   
-  <a href="https://debkarmakar.dev" target="_blank">
+  <a href="https://deb-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
   
