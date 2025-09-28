@@ -176,14 +176,6 @@
 
 <br>
 
-## 🎵 Weekly Development Breakdown
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DebKarmakar&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4" alt="Weekly Development Breakdown" />
-  
-</div>
-
 <div align="center">
   
   ## 🎵 Spotify Playing
