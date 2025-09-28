@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  🚀 **Full Stack Developer** | 💡 **Problem Solver** | 🌟 **Tech Enthusiast**
+  🚀 **Full Stack Developer**
   
 </div>
 
