@@ -21,7 +21,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, programming, and technology**
 - 📫 How to reach me: **debkarma97@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into code!**
+- ⚡ Fun fact: **I love turning ideas into disasters!**
 
 <br>
 
