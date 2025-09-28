@@ -186,10 +186,11 @@
 
 <div align="center">
   
-  **🎵 Currently Vibing To:** Lofi Hip Hop & Coding Beats 🎵**
+  ## 🎵 Spotify Playing
+
+<div align="center">
   
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/debkarmakar)
-  [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" alt="Spotify Now Playing" />
   
 </div>
 
