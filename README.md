@@ -106,11 +106,11 @@
 
 <div align="center">
   
-  <a href="https://github.com/Deb-Karmakar/project1">
+  <a href="https://github.com/Deb-Karmakar/LivestockIQ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=project1&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="Project 1" />
   </a>
   
-  <a href="https://github.com/Deb-Karmakar/project2">
+  <a href="https://github.com/Deb-Karmakar/Smart-Surplus-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=project2&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="Project 2" />
   </a>
   
