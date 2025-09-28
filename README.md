@@ -106,15 +106,25 @@
 
 <div align="center">
   
-  <a href="https://github.com/Deb-Karmakar/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=project1&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/Deb-Karmakar/LivestockIQ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=LivestockIQ&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="LivestockIQ" />
   </a>
   
-  <a href="https://github.com/Deb-Karmakar/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=project2&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/Deb-Karmakar/Smart-Surplus-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=Smart-Surplus-App&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="Smart-Surplus-App" />
   </a>
   
 </div>
+
+### 🚀 Project Highlights:
+
+**🐄 LivestockIQ** - A comprehensive livestock management system with AI-powered health recommendations, built with React, Node.js, and MongoDB.
+- **Features:** Animal tracking, treatment scheduling, inventory management, AI health assistant
+- **Tech Stack:** React 19, Node.js, Express, MongoDB, Groq AI, Tailwind CSS
+
+**🥗 Smart-Surplus-App (ZeroBite)** - A food waste reduction platform connecting surplus food with those in need.
+- **Features:** Food inventory management, analytics dashboard, user authentication, real-time notifications
+- **Tech Stack:** React, Vite, Chart.js, React Router, Responsive Design
 
 <br>
 
