@@ -66,7 +66,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deb-Karmakar&bg_color=0d1117&color=c9d1d9&line=4ecdc4&point=ff6b6b&area=true&hide_border=true" alt="Deb Karmakar Activity Graph" />
+
   
 </div>
 
