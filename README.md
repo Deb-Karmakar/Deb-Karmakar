@@ -11,7 +11,7 @@
 
 <div align="center">
   
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,14 +28,14 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛠️ Tools & IDEs
+### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -46,7 +46,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -64,7 +64,7 @@
 
 <br>
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   
@@ -74,43 +74,6 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Deb-Karmakar&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Deb Karmakar Trophies" />
-  
-</div>
-
-<br>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/Deb-Karmakar/LivestockIQ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=LivestockIQ&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="LivestockIQ" />
-  </a>
-  
-  <a href="https://github.com/Deb-Karmakar/Smart-Surplus-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-Karmakar&repo=Smart-Surplus-App&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&hide_border=true" alt="Smart-Surplus-App" />
-  </a>
-  
-</div>
-
-### 🚀 Project Highlights:
-
-**🐄 LivestockIQ** - A comprehensive livestock management system with AI-powered health recommendations, built with React, Node.js, and MongoDB.
-- **Features:** Animal tracking, treatment scheduling, inventory management, AI health assistant
-- **Tech Stack:** React 19, Node.js, Express, MongoDB, Groq AI, Tailwind CSS
-
-**🥗 Smart-Surplus-App (ZeroBite)** - A food waste reduction platform connecting surplus food with those in need.
-- **Features:** Food inventory management, analytics dashboard, user authentication, real-time notifications
-- **Tech Stack:** React, Vite, Chart.js, React Router, Responsive Design
-
-<br>
-
-## 🐍 Snake Animation
 
 <div align="center">
   
@@ -120,7 +83,7 @@
 
 <br>
 
-## 📱 Connect with Me
+##  Connect with Me
 
 <div align="center">
   
@@ -148,7 +111,6 @@
 
 <br>
 
-## 💫 Random Dev Quote
 
 <div align="center">
   
@@ -160,7 +122,6 @@
 
 <div align="center">
   
-  ## 🎵 Spotify Playing
 
 <div align="center">
   
@@ -170,7 +131,6 @@
 
 <br>
 
-## 👀 Profile Views
 
 <div align="center">
   
@@ -182,8 +142,3 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center">
-  
-  **⭐ Star this repository if you found it helpful! ⭐**
-  
-</div>
