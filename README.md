@@ -6,21 +6,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center">
-  
-  🚀 **Full Stack Developer**
-  
-</div>
-
-<br>
-
-## 🧑‍💻 About Me
-
-- 🌱 I'm currently learning **cloud technologies and DevOps**
-- 📫 How to reach me: **debkarma97@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into disasters!**
-
-<br>
 
 ## 🛠️ Tech Stack
 
