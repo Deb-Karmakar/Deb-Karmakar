@@ -48,7 +48,7 @@
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Deb-Karmakar&show_icons=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117" alt="Deb Karmakar github stats" /> 
+  
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb-Karmakar&layout=compact&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" />
   
