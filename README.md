@@ -46,13 +46,7 @@
 
 
 
-<div align="center">
-  
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deb-Karmakar&theme=radical&hide_border=true&stroke=0000&background=0d1117" alt="Deb Karmakar" />
-  
-</div>
 
-<br>
 
 ## Contribution Graph
 
