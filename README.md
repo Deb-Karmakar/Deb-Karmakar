@@ -48,7 +48,6 @@
 
 
 
-## Contribution Graph
 
 <div align="center">
   
